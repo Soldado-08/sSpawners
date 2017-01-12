@@ -1,0 +1,16 @@
+#Permissões
+PegarSpawner: "spawner.pegar"
+PermissaoMenuGUI: "spawner.menu"
+
+#Prefixos
+PrefixoSpawner: "&eSpawner de"
+PrefixoDefinidor: "&eDefinidor de"
+
+#Bloquear spawners nulos?
+BlockSpawnerNulo: false
+
+#Só pode pegar spawner com silktouch
+SilkTouch: true
+
+#Só quem tem permissão pode pegar o spawner com silk touch
+PermParaSilkTouch: true

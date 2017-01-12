@@ -1,0 +1,6 @@
+#SemPermissao
+SemPermissao: "&cSem permissão..."
+
+#Para desativar uma mensagem, coloque o valor dela como ""
+ComoUsarDefinidor: "&6Para usar um definidor, basta clicar com ele em um spawner."
+SemPermParaSpawner: "&cVocê precisa ser um jogador VIP para coletar um spawner."

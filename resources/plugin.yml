@@ -1,0 +1,7 @@
+name: sSpawner
+main: me.soldado.spawners.Main
+version: 1.0
+commands:
+   spawners:
+      description: Abre o menu de spawners.
+      usage: /<command>
